@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "name": "Blue T-shirt",
+        "price": 1999,
+        "description": "Comfortable cotton t-shirt in vibrant blue color.",
+        "image": "https://example.com/blue-tshirt.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Classic Watch",
+        "price": 4999,
+        "description": "Elegant analog watch with leather strap.",
+        "image": "https://example.com/classic-watch.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Wireless Headphones",
+        "price": 7999,
+        "description": "High-quality wireless headphones with noise cancellation feature.",
+        "image": "https://example.com/wireless-headphones.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Leather Wallet",
+        "price": 2999,
+        "description": "Slim leather wallet with multiple card slots and a cash pocket.",
+        "image": "https://example.com/leather-wallet.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Canvas Backpack",
+        "price": 3999,
+        "description": "Spacious canvas backpack with padded shoulder straps.",
+        "image": "https://example.com/canvas-backpack.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Stainless Steel Water Bottle",
+        "price": 2499,
+        "description": "Durable stainless steel water bottle with leak-proof cap.",
+        "image": "https://example.com/water-bottle.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Striped Scarf",
+        "price": 1499,
+        "description": "Soft knitted scarf with colorful stripes.",
+        "image": "https://example.com/striped-scarf.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Sunglasses",
+        "price": 3499,
+        "description": "Stylish sunglasses with UV protection lenses.",
+        "image": "https://example.com/sunglasses.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Fitness Tracker",
+        "price": 6999,
+        "description": "Advanced fitness tracker with heart rate monitor and activity tracking features.",
+        "image": "https://example.com/fitness-tracker.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Laptop Sleeve",
+        "price": 1999,
+        "description": "Protective laptop sleeve with soft interior lining.",
+        "image": "https://example.com/laptop-sleeve.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Stainless Steel Kitchen Knife Set",
+        "price": 5999,
+        "description": "Set of high-quality stainless steel kitchen knives with wooden handles.",
+        "image": "https://example.com/knife-set.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Bluetooth Speaker",
+        "price": 4999,
+        "description": "Portable Bluetooth speaker with crisp sound quality.",
+        "image": "https://example.com/bluetooth-speaker.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Yoga Mat",
+        "price": 2999,
+        "description": "Extra-thick yoga mat for added comfort during workouts.",
+        "image": "https://example.com/yoga-mat.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Denim Jeans",
+        "price": 3999,
+        "description": "Classic denim jeans with a slim fit.",
+        "image": "https://example.com/denim-jeans.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Ceramic Coffee Mug",
+        "price": 999,
+        "description": "Large ceramic coffee mug with colorful design.",
+        "image": "https://example.com/coffee-mug.jpg"
+    }
+]
